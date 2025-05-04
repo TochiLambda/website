@@ -208,4 +208,30 @@
     opacity: 0.8;
   }
   
+  /*product style*/
+  .product-block {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin-bottom: 2.5em;
+    align-items: center;
+  }
+  
+  .product-block img.product-image {
+    flex: 1 1 300px;
+    max-width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  }
+  
+  .product-block div {
+    flex: 2 1 400px;
+  }
+  
+  .product-block h3 {
+    margin-top: 0;
+    font-size: 1.4em;
+    color: #444;
+  }
+  
   
