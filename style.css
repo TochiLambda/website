@@ -1,5 +1,5 @@
 :root {
-    --primary: #8ac6b9;
+    --primary: #486B00;
     --accent: #fefae0;
     --bg: #f9f9f9;
     --text: #333;
@@ -151,7 +151,7 @@
   .news-card a {
     margin: 0 1em 1em;
     text-decoration: none;
-    color: #007777;
+    color: #486B00;
     font-weight: bold;
     align-self: flex-start;
   }
@@ -181,7 +181,7 @@
   
   #contact a {
     font-weight: bold;
-    color: #007777;
+    color: #486B00;
     text-decoration: none;
   }
   
